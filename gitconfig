@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = seeliger.alfred@gmail.com
+	name = Alfred Seeliger
